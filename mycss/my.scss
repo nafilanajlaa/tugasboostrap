@@ -1,0 +1,207 @@
+*{
+    font-family: 'poppins', 'sans-serfif';
+    
+}
+
+:root{
+    --background: #EAEEFE;
+}
+
+body.najla{
+    background: var(--background);
+}
+
+// navbar 
+.najla{
+    background-color: var(--background);
+    margin-bottom: 235px;
+    padding-bottom: 120px;
+    nav{
+        .container{
+            margin-top: 15px;
+            .navbar-brand{
+                 width: 260px;
+                 height: 105px;
+                 margin-top: 10px;
+                 margin-left: 156px;
+                 margin-bottom: 20px;
+            }
+            .collapse{
+                margin-top: 3px;
+                ul{
+                    width: 438px;
+                    height: 30px;
+                    // margin-top: 10px;
+                    margin-left: 795px;
+
+
+                    .nav-item{
+                        
+                        .nav-link{
+                            font-weight: 400;
+                            font-size: 20px;
+                            text-align: left;
+                            line-height: 30px;
+                            color:#6D6F77;
+
+
+                        }
+                        .active{
+                            color:#4262D2;
+                            font-weight: 500;
+                            font-size: 20px;
+                            text-align: right;
+                            line-height: 30px;
+                        }
+                    }
+                    
+                }
+            }
+
+        }
+    }
+
+    .najla-section{
+       
+        .row{
+            .najla-content{
+              
+                .btn-primary{
+                    font-weight: 500;
+                    font-size: 18px;
+                    padding-top: 14px;
+                    padding-bottom: 15px;
+                    padding-left: 36px;
+                    padding-right: 35px;
+                    background-color: #7F6DF0;
+                    border-radius: 50px;
+                    color: #FFFFFF;
+                }
+                .najla-title{
+                    font-weight: 700;
+                    font-size: 40px;
+                    color: #7F6DF0;
+                    margin-top: 34px;
+                }
+                .umkm{
+                    font-weight: 400;
+                    font-size: 14px;
+                    color: #676e87;
+                    
+                }
+    
+                .btn-primary2{
+                    background: #FF6632;
+                    border-radius: 5px;
+                    padding-top:11px ;
+                    padding-bottom:11px ;
+                    padding-right: 25px;
+                    padding-left:26px ;
+                    font-weight:500 ;
+                    font-size: 18px;
+                    color: #FFFFFF;
+                    
+                }
+                
+                .klik-link{
+                    font-weight: 400;
+                    font-size: 16px;
+                    color: #676e87;
+                    padding-left: 64px;
+                   
+                }
+            }
+        }
+    }
+
+    
+}
+
+
+//agen
+
+.najla-nafila{
+    .row{
+        .agen-content{
+            .najel{
+                font-weight: 600;
+                font-size: 34px;
+                color: #48494F;
+            }
+            .nafila{
+                font-weight: 400;
+                font-size: 16px;
+                color: #676E87;
+                margin-top: 30px;
+            }
+            .klik-sini{
+                font-weight: 400;
+                font-size: 16px;
+                color: #676E87;
+                margin-top: 30px;
+            }
+        }
+    }
+}
+
+//end agen
+
+// skill
+
+.komputer-section{
+    .judul-komputer{
+        h3{
+            padding-top: 160px;
+            font-weight: 600;
+            font-size: 38px;
+            color: #48494F;
+            padding-bottom: 100px;
+        }
+    }
+    .skill{
+        .row{
+            .kartu{
+                .card-uiux{
+                    background: #F0F5FF;
+                    border-radius: 20px;
+                }
+                .card-cloud{
+                    background: #F5F0FF;
+                    border-radius: 20px;    
+                }
+                .card-training{
+                    background: #F1FADC;
+                    border-radius: 20px;
+                }
+                .card-body{
+                    .najel-img{
+                        width: 180px;
+                        padding-top:15px;
+                    }
+                    .card-title{
+                        padding-top: 37px;
+                        font-weight: 700;
+                        font-size: 36px;
+                        line-height: 47px;
+                        color: #48494F;
+                        margin-bottom: 49px;
+
+                    }
+                    .card-text{
+                        font-weight: 500;
+                        font-size: 19px;
+                        line-height: 28px;
+                        text-align: center;
+                        color: #676E87;
+                    }
+                }
+                
+
+                
+            }
+        }
+    }
+    
+}
+
+// end skill

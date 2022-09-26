@@ -1,0 +1,145 @@
+* {
+  font-family: "poppins", "sans-serfif";
+}
+
+:root {
+  --background: #EAEEFE;
+}
+
+body.najla {
+  background: var(--background);
+}
+
+.najla {
+  background-color: var(--background);
+  margin-bottom: 235px;
+  padding-bottom: 120px;
+}
+.najla nav .container {
+  margin-top: 15px;
+}
+.najla nav .container .navbar-brand {
+  width: 260px;
+  height: 105px;
+  margin-top: 10px;
+  margin-left: 156px;
+  margin-bottom: 20px;
+}
+.najla nav .container .collapse {
+  margin-top: 3px;
+}
+.najla nav .container .collapse ul {
+  width: 438px;
+  height: 30px;
+  margin-left: 795px;
+}
+.najla nav .container .collapse ul .nav-item .nav-link {
+  font-weight: 400;
+  font-size: 20px;
+  text-align: left;
+  line-height: 30px;
+  color: #6D6F77;
+}
+.najla nav .container .collapse ul .nav-item .active {
+  color: #4262D2;
+  font-weight: 500;
+  font-size: 20px;
+  text-align: right;
+  line-height: 30px;
+}
+.najla .najla-section .row .najla-content .btn-primary {
+  font-weight: 500;
+  font-size: 18px;
+  padding-top: 14px;
+  padding-bottom: 15px;
+  padding-left: 36px;
+  padding-right: 35px;
+  background-color: #7F6DF0;
+  border-radius: 50px;
+  color: #FFFFFF;
+}
+.najla .najla-section .row .najla-content .najla-title {
+  font-weight: 700;
+  font-size: 40px;
+  color: #7F6DF0;
+  margin-top: 34px;
+}
+.najla .najla-section .row .najla-content .umkm {
+  font-weight: 400;
+  font-size: 14px;
+  color: #676e87;
+}
+.najla .najla-section .row .najla-content .btn-primary2 {
+  background: #FF6632;
+  border-radius: 5px;
+  padding-top: 11px;
+  padding-bottom: 11px;
+  padding-right: 25px;
+  padding-left: 26px;
+  font-weight: 500;
+  font-size: 18px;
+  color: #FFFFFF;
+}
+.najla .najla-section .row .najla-content .klik-link {
+  font-weight: 400;
+  font-size: 16px;
+  color: #676e87;
+  padding-left: 64px;
+}
+
+.najla-nafila .row .agen-content .najel {
+  font-weight: 600;
+  font-size: 34px;
+  color: #48494F;
+}
+.najla-nafila .row .agen-content .nafila {
+  font-weight: 400;
+  font-size: 16px;
+  color: #676E87;
+  margin-top: 30px;
+}
+.najla-nafila .row .agen-content .klik-sini {
+  font-weight: 400;
+  font-size: 16px;
+  color: #676E87;
+  margin-top: 30px;
+}
+
+.komputer-section .judul-komputer h3 {
+  padding-top: 160px;
+  font-weight: 600;
+  font-size: 38px;
+  color: #48494F;
+  padding-bottom: 100px;
+}
+.komputer-section .skill .row .kartu .card-uiux {
+  background: #F0F5FF;
+  border-radius: 20px;
+}
+.komputer-section .skill .row .kartu .card-cloud {
+  background: #F5F0FF;
+  border-radius: 20px;
+}
+.komputer-section .skill .row .kartu .card-training {
+  background: #F1FADC;
+  border-radius: 20px;
+}
+.komputer-section .skill .row .kartu .card-body .najel-img {
+  width: 180px;
+  padding-top: 15px;
+}
+.komputer-section .skill .row .kartu .card-body .card-title {
+  padding-top: 37px;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 47px;
+  color: #48494F;
+  margin-bottom: 49px;
+}
+.komputer-section .skill .row .kartu .card-body .card-text {
+  font-weight: 500;
+  font-size: 19px;
+  line-height: 28px;
+  text-align: center;
+  color: #676E87;
+}/*# sourceMappingURL=my.css.map */
